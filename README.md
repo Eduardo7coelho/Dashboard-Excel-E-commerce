@@ -27,11 +27,6 @@ A base da Olist contém informações de:
 - Top 5 Cidades com maior faturamento
 - Rank dos Métodos de Pagamento mais utilizados
   
-## Backups
-- Backup Completo: O script sBackup_full.bat realiza um backup completo do banco de dados. Ele cria uma cópia de todos os dados e estrutura do banco de dados, garantindo que você tenha um backup total em caso de necessidade de recuperação.
-- Backup Diferencial: O script sBackup_diferencial.bat faz um backup diferencial, copiando apenas as alterações feitas desde o último backup completo.
-- Backup Incremental: O script sBackup_Incremental.bat realiza backups incrementais, copiando apenas as alterações feitas desde o último backup incremental.
-  
 ## Autor
 
 Desenvolvido por Eduardo Coelho.
